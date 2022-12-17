@@ -2,7 +2,6 @@
   <div class="bg-white q-pa-lg quiz-entrance-container">
     <q-input color="purple" label-color="dark-purple" class="quiz-input" filled label="Enter PIN"/>
     <quiz-enter-button/>
-
   </div>
 </template>
 
